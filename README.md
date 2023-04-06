@@ -12,7 +12,7 @@ The Project Uses The Source Code "addWindow" and is also based on the BreadixPE 
 /setminigames <bw|bridge>
 # Set Extra Mnigames
 /setxtra <murder|uhc>
-
+# explaining
 Hi, Today I'm Creating A /more Plugin For Minigames
 He Is Like From Bredix Pe For 1.1.5 What For MCPE 0.15.10
 Plugin Uses Variable "addWindow"
